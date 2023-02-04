@@ -1,0 +1,11 @@
+{
+  "name": "m2a2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "loanData.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Natasha Mondestin",
+  "license": "ISC"
+}
